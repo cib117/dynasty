@@ -8,12 +8,8 @@ This repository contains code and figures related to my 'Legislative Behavior of
 
 `figures/`: Contains the figures
 
-<img src='plots/wordcloud.png'>
-
 <img src='plots/dynasties_time.png'>
 
 <img src='plots/dynasties_fw.png'>
 
 <img src='plots/topics.png'>
-
-<img src='plots/coefplot.png'>
