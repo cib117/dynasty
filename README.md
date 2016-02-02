@@ -7,3 +7,5 @@ This repository contains code and figures related to my 'Legislative Behavior of
 `R/`: Contains code to get the data from make plots and estimate fightin' words and topic models. 
 
 `figures/`: Contains the figures
+
+<img src='plots/dynasties_fw.png'>
